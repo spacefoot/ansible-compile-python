@@ -20,8 +20,6 @@
       - libbz2-dev
       - libexpat1-dev
       - libffi-dev
-      - libffi6
-      - libffi6-dbg
       - libgdbm-dev
       - libgpm2
       - libncursesw5-dev
