@@ -35,7 +35,7 @@ Role Variables
 ==============
 * python_24: ``true/false`` (defaults to **false**)
 * python_26: ``true/false`` (defaults to **false**)
-* python_27: ``true/false`` (defaults to **true**)
+* python_27: ``true/false`` (defaults to **false**)
 * python_31: ``true/false`` (defaults to **false**)
 * python_32: ``true/false`` (defaults to **false**)
 * python_33: ``true/false`` (defaults to **false**)
