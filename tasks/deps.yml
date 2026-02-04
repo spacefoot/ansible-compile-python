@@ -34,7 +34,6 @@
       - libssl-dev
       - libzstd-dev
       - lzma
-      - lzma-dev
       - pkg-config
       - tk-dev
       - uuid-dev
