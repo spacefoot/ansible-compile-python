@@ -48,6 +48,8 @@ None
 - python_310: `true/false` (defaults to **false**)
 - python_311: `true/false` (defaults to **false**)
 - python_312: `true/false` (defaults to **false**)
+- python_313: `true/false` (defaults to **false**)
+- python_314: `true/false` (defaults to **false**)
 - pillow: `true/false` (defaults to **false**)
 - lxml: `true/false` (defaults to **false**)
 
